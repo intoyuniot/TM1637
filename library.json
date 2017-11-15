@@ -1,0 +1,17 @@
+{
+    "name": "TM1637",
+    "version": "1.0.0",
+    "keywords": "TM1637",
+    "description": "TM1637数码管驱动库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/TM1637.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
+
